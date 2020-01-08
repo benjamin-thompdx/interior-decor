@@ -1,12 +1,16 @@
 .column {
     width: 350px;
     float: right;
-    background-color: white;
+    border: 3px white solid;
+    padding: 10px;
+    
+    
 }
 
 .nice-house {
-   width: 100px; 
-   height: 100px;
+   width: 200px; 
+   height: 200px;
+   
 }
 
 body {
@@ -18,4 +22,16 @@ h1 {
     text-align: center;
     width: 800px;
     margin: 0 auto;
+}
+
+.red {
+    background-color: purple;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: red;
 }
