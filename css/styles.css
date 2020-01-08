@@ -1,4 +1,21 @@
 .column {
     width: 350px;
     float: right;
+    background-color: white;
+}
+
+.nice-house {
+   width: 100px; 
+   height: 100px;
+}
+
+body {
+    background-color: sandybrown;
+}
+
+h1 {
+    background-color: white;
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
 }
